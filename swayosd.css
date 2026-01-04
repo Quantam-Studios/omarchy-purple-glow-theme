@@ -1,8 +1,8 @@
-@define-color background-color #0A0E14ee;  /* Deep midnight blue with transparency */
-@define-color border-color #40C4FF;        /* Bright sky blue */
-@define-color label #B3E5FC;               /* Soft glowing cyan */
-@define-color image #B3E5FC;               /* Soft glowing cyan */
-@define-color progress #00B0FF;            /* Rich azure */
+@define-color background-color #0E0914ee;  /* Deep violet-black with transparency */
+@define-color border-color #9B5BFF;        /* Neon violet border */
+@define-color label #E2D9FF;               /* Soft lavender glow */
+@define-color image #E2D9FF;               /* Soft lavender glow */
+@define-color progress #C084FC;            /* Electric lilac progress bar */
 
 window {
     background: @background-color;

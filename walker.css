@@ -1,11 +1,11 @@
-@define-color selected-text #40C4FF;  /* Bright sky blue */
-@define-color text #B3E5FC;           /* Soft glowing cyan */
-@define-color base #0A0E14;           /* Deep midnight blue */
-@define-color surface #081018;        /* Abyssal navy */
-@define-color overlay #1B2A3A;        /* Dim steel blue */
-@define-color muted #4DD0E1;          /* Lively aqua */
-@define-color subtle #00B0FF;         /* Rich azure */
-@define-color border #40C4FF;         /* Bright sky blue */
+@define-color selected-text #9B5BFF;  /* Neon violet */
+@define-color text #E2D9FF;           /* Soft lavender glow */
+@define-color base #0E0914;           /* Deep violet black */
+@define-color surface #191226;        /* Dark amethyst */
+@define-color overlay #2A1B3A;        /* Dim violet steel */
+@define-color muted #C084FC;          /* Electric lilac */
+@define-color subtle #B659FF;         /* Radiant purple */
+@define-color border #9B5BFF;         /* Neon violet border */
 
 * {
     font-family: "JetBrainsMono Nerd Font";

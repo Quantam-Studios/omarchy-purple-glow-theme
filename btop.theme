@@ -1,60 +1,60 @@
-# Azure Glow Theme for Btop
-# Electric blues and radiant cyan with deep abyss backgrounds
+# Purple Glow Theme for Btop
+# Vibrant violets and lilacs with deep amethyst backgrounds
 
-theme[main_bg]="#0a0a14"
-theme[main_fg]="#b4dcff"
+theme[main_bg]="#0e0914"
+theme[main_fg]="#e2d9ff"
 
-theme[title]="#00aaff"
-theme[hi_fg]="#d0f0ff"
-theme[selected_bg]="#00334d"
-theme[selected_fg]="#00ccff"
-theme[inactive_fg]="#00334d"
+theme[title]="#9b5bff"
+theme[hi_fg]="#f1e8ff"
+theme[selected_bg]="#2a1b3a"
+theme[selected_fg]="#c084fc"
+theme[inactive_fg]="#191226"
 
-theme[proc_misc]="#b4dcff"
+theme[proc_misc]="#e2d9ff"
 
-theme[cpu_box]="#00aaff"
-theme[mem_box]="#00e5ff"
-theme[net_box]="#00ccff"
-theme[proc_box]="#0099ff"
+theme[cpu_box]="#9b5bff"
+theme[mem_box]="#c084fc"
+theme[net_box]="#b659ff"
+theme[proc_box]="#9b5bff"
 
-theme[div_line]="#00334d"
+theme[div_line]="#2a1b3a"
 
-theme[graph_text]="#66ccff"
+theme[graph_text]="#b084ff"
 
-# CPU gradients - from deep azure (low) to sky cyan to electric blue (high)
-theme[cpu_start]="#0055ff"
-theme[cpu_mid]="#00ccff"
-theme[cpu_end]="#00f0ff"
+# CPU gradients - from deep violet (low) to lilac (mid) to magenta (high)
+theme[cpu_start]="#4f2a7f"
+theme[cpu_mid]="#9b5bff"
+theme[cpu_end]="#ff4c9e"
 
-# Memory gradients - from icy blue to bright cyan
-theme[mem_start]="#66d9ff"
-theme[mem_mid]="#00bfff"
-theme[mem_end]="#0099cc"
+# Memory gradients - from soft purple to bright lilac
+theme[mem_start]="#7b4dbe"
+theme[mem_mid]="#b659ff"
+theme[mem_end]="#c084fc"
 
-# Network gradients - from bright cyan to aqua
-theme[download_start]="#00e5ff"
-theme[download_mid]="#00ccff"
-theme[download_end]="#0099ff"
+# Network gradients - violet to aqua (adds subtle cool contrast)
+theme[download_start]="#9b5bff"
+theme[download_mid]="#7efff5"
+theme[download_end]="#c084fc"
 
-theme[upload_start]="#00ccff"
-theme[upload_mid]="#00b3ff"
-theme[upload_end]="#66ccff"
+theme[upload_start]="#c084fc"
+theme[upload_mid]="#b659ff"
+theme[upload_end]="#9b5bff"
 
-# Process gradients - vibrant cyan to aqua blue
-theme[process_start]="#00e5ff"
-theme[process_mid]="#00ccff"
-theme[process_end]="#0099ff"
+# Process gradients - lilac to neon violet
+theme[process_start]="#b659ff"
+theme[process_mid]="#c084fc"
+theme[process_end]="#9b5bff"
 
-# Temperature gradients - from cool blue to brighter cyan
-theme[temp_start]="#66d9ff"
-theme[temp_mid]="#00ccff"
-theme[temp_end]="#0099ff"
+# Temperature gradients - from muted violet to hot magenta
+theme[temp_start]="#7b4dbe"
+theme[temp_mid]="#b659ff"
+theme[temp_end]="#ff4c9e"
 
-# Battery gradient - cool cyan tones
-theme[battery_start]="#00e5ff"
-theme[battery_mid]="#00ccff"
-theme[battery_end]="#0099ff"
+# Battery gradient - neon lilac vibe
+theme[battery_start]="#9b5bff"
+theme[battery_mid]="#c084fc"
+theme[battery_end]="#f1e8ff"
 
-theme[clock]="#d0f0ff"
+theme[clock]="#e2d9ff"
 theme[input_text]="#ffffff"
-theme[error_text]="#00ffff"
+theme[error_text]="#ff4c9e"

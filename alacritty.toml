@@ -1,30 +1,30 @@
 [colors.primary]
-background = "#0a0f1a"  # Deep ocean black-blue
-foreground = "#a8dfff"  # Icy azure glow
+background = "#0e0914"  # Deep violet black
+foreground = "#e2d9ff"  # Soft lavender glow
 
 [colors.cursor]
-cursor = "#00ccff"      # Electric cyan beam
-text = "#0a0f1a"        # Dark contrast
+cursor = "#c084fc"      # Electric lilac beam
+text = "#0e0914"        # Dark contrast
 
 [colors.normal]
-black   = "#0d1b26"     # Abyssal navy
-red     = "#0099cc"     # Bright cerulean
-green   = "#00e0b8"     # Tropical aqua
-yellow  = "#33ccff"     # Sky flash
-blue    = "#00aaff"     # Bold azure
-magenta = "#3399ff"     # Deep sky fusion
-cyan    = "#66e0ff"     # Frosted cyan
-white   = "#cceeff"     # Snow drift
+black   = "#191226"     # Deep amethyst
+red     = "#ff4c9e"     # Magenta signal
+green   = "#7efff5"     # Aqua glow
+yellow  = "#7b9eff"     # Soft electric blue
+blue    = "#9b5bff"     # Neon violet
+magenta = "#b659ff"     # Radiant purple
+cyan    = "#c084fc"     # Electric lilac
+white   = "#e2d9ff"     # Frosted white-lavender
 
 [colors.bright]
-black   = "#123247"     # Steel blue shadow
-red     = "#33ccff"     # Neon sky
-green   = "#33ffdd"     # Glacial mint
-yellow  = "#66ddff"     # Arc light
-blue    = "#33bbff"     # Vibrant azure
-magenta = "#66b2ff"     # Cloud-washed blue
-cyan    = "#99eeff"     # Crystal haze
-white   = "#ffffff"     # Pure white glow
+black   = "#241833"     # Shadow violet
+red     = "#ff79c6"     # Candy magenta
+green   = "#94fff7"     # Icy mint
+yellow  = "#ffe990"     # Light gold
+blue    = "#b084ff"     # Bright violet
+magenta = "#d5a6ff"     # Luminous magenta-lavender
+cyan    = "#a5bfff"     # Pastel lilac-cyan
+white   = "#ffffff"     # White glow
 
 [font]
 normal.family = "JetBrainsMono Nerd Font"
@@ -34,4 +34,3 @@ size = 11.0
 padding.x = 10
 padding.y = 10
 opacity = 0.95
-

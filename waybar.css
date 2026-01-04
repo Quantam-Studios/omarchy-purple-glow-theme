@@ -1,14 +1,14 @@
-@define-color foreground #B3E5FC;  /* Soft glowing cyan */
-@define-color background #0A0E14;  /* Deep midnight blue */
-@define-color primary #40C4FF;     /* Bright sky blue */
-@define-color secondary #00B0FF;   /* Rich azure */
-@define-color success #00E5FF;     /* Electric cyan */
-@define-color danger #FF5252;      /* Alert red */
-@define-color warning #FFD740;     /* Vibrant yellow */
-@define-color info #82B1FF;        /* Cool periwinkle */
-@define-color light #E6F0FF;       /* Frost white */
-@define-color dark #081018;        /* Abyssal navy */
-@define-color muted #1B2A3A;       /* Dim steel blue */
+@define-color foreground #E2D9FF;  /* Soft lavender glow */
+@define-color background #0E0914;  /* Deep violet black */
+@define-color primary   #9B5BFF;   /* Neon violet */
+@define-color secondary #C084FC;   /* Electric lilac */
+@define-color success   #7EFFF5;   /* Aqua glow */
+@define-color danger    #FF4C9E;   /* Magenta signal */
+@define-color warning   #F7CF47;   /* Soft gold */
+@define-color info      #B659FF;   /* Radiant purple */
+@define-color light     #F1E8FF;   /* Frosted lavender white */
+@define-color dark      #191226;   /* Deep amethyst shadow */
+@define-color muted     #2A1B3A;   /* Dim violet steel */
 
 * {
     font-family: "JetBrainsMono Nerd Font", monospace;

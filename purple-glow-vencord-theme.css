@@ -1,0 +1,35 @@
+/* Purple Glow Vencord Theme */
+
+:root {
+  --background-primary: #0e0914 !important;
+  --background-secondary: #191226 !important;
+  --background-tertiary: #2a1b3a !important;
+
+  --brand-experiment: #9b5bff !important;
+  --brand-experiment-560: #c084fc !important;
+
+  --text-normal: #e2d9ff !important;
+  --text-muted: #b084ff !important;
+
+  --interactive-normal: #c084fc !important;
+  --interactive-hover: #b659ff !important;
+  --interactive-active: #9b5bff !important;
+  --interactive-muted: #4a3570 !important;
+
+  --scrollbar-thin-thumb: #9b5bff80 !important;
+  --scrollbar-thin-track: #0e091480 !important;
+
+  --background-floating: #191226cc !important;
+  --modal-background: #0e0914 !important;
+  --info-positive-background: #7efff520 !important;
+  --info-negative-background: #ff4c9e20 !important;
+  --info-warning-background: #ddb6ff30 !important;
+
+  --accent-color: #c084fc !important;
+}
+
+/* Optional glow for active elements */
+[class*="selected-"], 
+[class*="hovered-"] { 
+  box-shadow: 0 0 8px #9b5bff80 !important;
+}

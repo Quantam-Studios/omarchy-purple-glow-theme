@@ -1,1 +1,17 @@
-Yaru-blue
+[Icon Theme]
+Name=Purple Glow
+Inherits=Papirus-Dark
+Comment=Papirus inspired purple glow icon theme
+Directories=apps,places,actions,devices,emblems,mimetypes,notifications,status,ui
+
+# Accent override (works if using icon packs that support color variants)
+AccentColor=#9b5bff
+AccentAltColor=#c084fc
+
+Example=folder
+
+# Optional fallback to a system theme
+FallbackTheme=Adwaita
+
+# Theme metadata
+Type=Scalable
