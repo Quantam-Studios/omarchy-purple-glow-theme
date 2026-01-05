@@ -51,6 +51,7 @@ A vibrant neon-noir aesthetic for Omarchy. Built on a foundation of deep amethys
 
 ## What’s Themed
 - **Alacritty** — Deep violet backdrop with electric lilac cursor.
+- **Ghostty** Deep violet backdrop with electric lilac cursor.
 - **Btop** — Custom gradients shifting from deep violet to magenta.
 - **Hyprland** — Violet to radiant purple active borders.
 - **Waybar** — Lavender indicators with neon purple highlights.
